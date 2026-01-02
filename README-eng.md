@@ -1,8 +1,5 @@
-# addressable-firework-parus: Addressable LED Strip Effect for ESPHome
-
-Fireworks‑Parus — a fireworks (salute) effect for addressable LED strips in ESPHome  
 ![ESPHome Logo](esphome1.png) ![Home Assistant Logo](https://avatars.githubusercontent.com/u/13844975?s=200&v=4)  
-![appearance](addressable-firework-parus.jpg)  
+![appearance](addressable-fireworks-parus.jpg)  
 
 <p align="center">  
     <img alt="Static Badge" src="https://img.shields.io/badge/made%20by-ParusSmartHome-blue">  
@@ -10,6 +7,9 @@ Fireworks‑Parus — a fireworks (salute) effect for addressable LED strips in 
     <img alt="Static Badge" src="https://img.shields.io/badge/esphome min version-2025.7.5-red">  
     <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-orange">  
 </p>
+
+# Addressable-Fireworks-Parus: Addressable LED Strip Effect for ESPHome
+Fireworks‑Parus — a fireworks (salute) effect for addressable LED strips in ESPHome  
 
 ## 🌟 Project Description
 
@@ -124,9 +124,9 @@ number:
 
 ## 📊 Screenshots and Videos
 
-- [YAML firmware file](addressable_firework_parus.yaml)  
-- [Screenshot](addressable-firework-parus.jpg)  
-- [YouTube Video](https://youtu.be/iwBEjguX0Tw)  
+- [YAML firmware file](addressable_fireworks_parus.yaml)  
+- [Screenshot](addressable-fireworks-parus.jpg)  
+- [YouTube Video](https://youtu.be/7ONLPmnGHnA)
 
 ---
 
