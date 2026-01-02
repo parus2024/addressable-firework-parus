@@ -123,7 +123,7 @@ number:
 
 - [yaml файл прошивки](addressable_fireworks_parus.yaml)
 - [Скриншот](addressable-fireworks-parus.jpg)
-- [Видео YOUTUBE](https://youtu.be/iwBEjguX0Tw)
+- [Видео YOUTUBE](https://youtu.be/7ONLPmnGHnA)
 
 ---
 
