@@ -6,8 +6,10 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/esphome min version-2025.7.5-red">
     <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-orange">
 </p>
-# addressable-firework-parus: Addressable LED Strip Effect for ESPHome
+
+**Addressable-Firework-Parus: Addressable LED Strip Effect for ESPHome**
 Fireworks-Parus — эффект фейерверка (салюта) для адресной ленты в ESPHome
+
 ## 🌟 Описание Проекта
 
 **эффект фейерверка (салюта) для адресной ленты в ESPHome**
