@@ -1,5 +1,3 @@
-# addressable-firework-parus: Addressable LED Strip Effect for ESPHome
-Fireworks-Parus — эффект фейерверка (салюта) для адресной ленты в ESPHome
 ![ESPHome Logo](esphome1.png) ![Home Assistant Logo](https://avatars.githubusercontent.com/u/13844975?s=200&v=4)
 ![внешний вид](addressable-fireworks-parus.jpg)
 <p align="center">
@@ -8,6 +6,8 @@ Fireworks-Parus — эффект фейерверка (салюта) для ад
     <img alt="Static Badge" src="https://img.shields.io/badge/esphome min version-2025.7.5-red">
     <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-orange">
 </p>
+# addressable-firework-parus: Addressable LED Strip Effect for ESPHome
+Fireworks-Parus — эффект фейерверка (салюта) для адресной ленты в ESPHome
 ## 🌟 Описание Проекта
 
 **эффект фейерверка (салюта) для адресной ленты в ESPHome**
